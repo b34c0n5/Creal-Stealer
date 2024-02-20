@@ -4,4 +4,4 @@ pycryptodome
 customtkinter
 packaging
 tk
-Crypto
+Crypt
