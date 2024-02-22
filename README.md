@@ -26,18 +26,18 @@
 
 
 
--   General Functions 🟩
+-   General Functions 
     -   Check if being run in a VirusTotal sandbox
     -   Adds file to startup
     -   Anti-Debug / Anti-VM / Anti-RDP / Blue Screen if detect
 
 
--   Discord Injection 💉
+-   Discord Injection 
     - Send token, password, email and billing on login or when email/password is changed
 
 
 
--   Browser Data ✔️
+-   Browser Data 
     -   Cookies
     -   Passwords
     -   From Chrome, Edge, Brave, Opera GX, and many more...
@@ -45,13 +45,13 @@
 
 
 
--   Crypto Data 💖
+-   Crypto Data 
     -   Extensions (MetaMask, Phantom, Trust Wallet, Coinbase Wallet, Binance Wallet and +40 wallets supported)
     -   Softwares (Exodus, Atomic, Guarda, Electrum, Zcash, Armory, Binance, Coinomi)
     -   Seedphrases and backup codes
 
 
--   Application Data ✔️
+-   Application Data 
     -   Steam
     -   Riot Games
     -   Telegram
