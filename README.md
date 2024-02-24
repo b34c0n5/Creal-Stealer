@@ -37,10 +37,14 @@
 
 
 
--   Browser Data 
+-   Browser Data
     -   Cookies
     -   Passwords
-    -   From Chrome, Edge, Brave, Opera GX, and many more...
+    -   Histories
+    -   Autofills
+    -   Bookmarks
+    -   Credit/Debit Cards
+    -   From Chrome, Edge, Brave, Opera GX, and more...
 
 
 
