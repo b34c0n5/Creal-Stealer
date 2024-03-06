@@ -28,7 +28,7 @@ def replace_webhook(webhook):
 
     for i, line in enumerate(lines):
         if line.strip().startswith('wh00k ='):
-            lines[i] = f'wh00k = "{webhook}"\n'
+            lines[i] = f'h00k = "{webhook}"\n'
             break
 
     with open(file_path, 'w', encoding='utf-8') as file:
